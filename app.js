@@ -8,6 +8,11 @@
 // };
 // console.log(expression());
 
-console.log(a);
-let a = 5;
-Hosting Namesha Cannot access 'a' before initialization mega
+function Closure(a = 0) {
+  return function (b) {
+    return function (c = 0) {
+      return a + b + c;
+    };
+  };
+}
+console.log(Closure(1)()(3));

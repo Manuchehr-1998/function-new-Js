@@ -52,4 +52,9 @@
 ![N|Solid](./img/recursive%203.jpg)
 ![N|Solid](./img/Misol%20Recursive.png)
 ![N|Solid](./img/Misol%20recursive%201232.png)
-![N|Solid](./img/Misol%20recursive%201232.png)
+
+# Function Closure
+
+![N|Solid](./img/Closure.png)
+![N|Solid](./img/Closure%20Misol%201.png)
+![N|Solid](./img/Closure%20Misol%202.png)
