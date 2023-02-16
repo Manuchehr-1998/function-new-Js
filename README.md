@@ -55,6 +55,6 @@
 
 # Function Closure
 
-![N|Solid](./img/Closure.png)
+![N|Solid](./img/Closure%202321.png)
 ![N|Solid](./img/Closure%20Misol%201.png)
 ![N|Solid](./img/Closure%20Misol%202.png)
