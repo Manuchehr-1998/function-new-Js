@@ -31,3 +31,11 @@
 #### Misol Expression
 
 ![N|Solid](./img/Misoli%20Expression_1.png)
+
+# Scopie Oblast Vidimost JavaScript
+
+![N|Solid](./img/5aad54a47d2e0123286333.png)
+
+### Scopie – Lexical Scope
+
+![N|Solid](./img/2xounixbcpualerc4k8z.png)
