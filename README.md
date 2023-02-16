@@ -39,3 +39,14 @@
 ### Scopie – Lexical Scope
 
 ![N|Solid](./img/2xounixbcpualerc4k8z.png)
+
+#### Misol
+
+![N|Solid](./img/Hostingt_1.png)
+![N|Solid](./img/Hosting_2.png)
+![N|Solid](./img/Hosting_3.png)
+![N|Solid](./img/Hosting%20Namesha.png)
+
+# Function Recursive
+
+![N|Solid](./img/Recursive.jpg)
