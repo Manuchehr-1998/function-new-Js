@@ -19,3 +19,4 @@
 # Function Declaration
 
 ![N|Solid](./img/JavaScript-Function-Declaration.jpg)
+![N|Solid](./img/Misol_Dec.png)
