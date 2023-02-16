@@ -11,3 +11,7 @@
 #### 3 Hosting
 
 #### 4 Recursion and Closure
+
+# Function
+
+![N|Solid](./img/1_LyZcwuLWv2FArOumCxobpA.png)
