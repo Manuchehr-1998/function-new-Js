@@ -15,3 +15,4 @@
 # Function
 
 ![N|Solid](./img/1_LyZcwuLWv2FArOumCxobpA.png)
+![N|Solid](./img/JavaScript-Function-Declaration.jpg)
